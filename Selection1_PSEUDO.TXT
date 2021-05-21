@@ -1,5 +1,5 @@
 Begin
-Read input as X
+Read Input as X
 IF X > 500 THEN
     Calculate  X = X - 500
 END IF
