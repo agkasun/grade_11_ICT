@@ -1,0 +1,10 @@
+Begin
+Insert Bill Value as X
+If X > 2500 then
+Amount = X -  (X * 20/ 100)
+else 
+Amount = X - (X * 10/100)
+end if
+print amount
+end
+

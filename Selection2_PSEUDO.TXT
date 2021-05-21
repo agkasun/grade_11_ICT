@@ -1,0 +1,8 @@
+Begin
+Input marks as M
+If M > 50 then
+      Print 'Pass'
+else
+      Print 'Fail'
+End if      
+End

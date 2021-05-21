@@ -1,0 +1,7 @@
+Begin
+Read input as X
+IF X > 500 THEN
+    Calculate  X = X - 500
+END IF
+Print X
+End
