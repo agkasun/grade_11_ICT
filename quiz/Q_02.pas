@@ -1,4 +1,4 @@
-program Q_01;
+program Q_02;
 
 var B,P:Integer;
 var BookPrice,PenPrice,Amount:Real;
