@@ -1,0 +1,8 @@
+Begin
+BookPrice =150
+PenPrice = 10
+Input Number of Books as B
+Input Number of Pens as P
+Calculate  Amount = (B * BookPrice) + (P * PenPrice)
+Display Amount
+End

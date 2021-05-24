@@ -1,0 +1,5 @@
+Begin
+Input Number as N1, N2
+Calculate  Value = N1 * N2
+Display Value
+End
